@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![ATSOTECK' github stats](https://github-readme-stats.vercel.app/api?username=ATSOTECK&show_icons=true&count_private=true&bg_color=130,D73F59,A133D5&title_color=fff&icon_color=fff&text_color=fff&include_all_commits=true&hide_rank=true)
+![ATSOTECK' github stats](https://github-readme-stats.vercel.app/api?username=ATSOTECK&show_icons=true&count_private=true&bg_color=130,D73F59,A133D5&title_color=fff&icon_color=fff&text_color=fff&include_all_commits=true&hide_rank=true&theme_name=gruvbox)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ATSOTECK&hide=mako,python&layout=compact&card_width=445&bg_color=374355&title_color=fff&icon_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
